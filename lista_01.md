@@ -59,6 +59,7 @@ ______
 ![Uma imagem](assets/ex06.PNG)
 
 Qual será a saída do código acima?
+
 **Minha resposta:**
 
 **A) "Olá, meu nome é João. Olá, meu nome é Maria."**
